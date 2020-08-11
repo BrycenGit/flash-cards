@@ -64,11 +64,6 @@ $(document).ready(function() {
     $(".answer-Undefined").toggle();
   });
 
-  $("#").click(function() {
-    $(".definition-").toggle();
-    $(".answer-").toggle();
-  });
-
   $("#NaN").click(function() {
     $(".definition-NaN").toggle();
     $(".answer-NaN").toggle();
@@ -90,7 +85,7 @@ $(document).ready(function() {
   });
 
   $("#jQuery").click(function() {
-    $(".definition-jQuery-").toggle();
+    $(".definition-jQuery").toggle();
     $(".answer-jQuery").toggle();
   });
 
