@@ -1,7 +1,58 @@
-.answer-java {
+.answer-Java {
   display: none;
 }
-.answer-operators {
+.answer-Operators {
+  display: none;
+}
+.answer-Variables {
+  display: none;
+}
+.answer-vnc {
+  display: none;
+}
+.answer-Functions {
+  display: none;
+}
+.answer-Methods {
+  display: none;
+}
+.answer-Arguments {
+  display: none;
+}
+.answer-Parameters {
+  display: none;
+}
+.answer-Return {
+  display: none;
+}
+.answer-Chaining-methods {
+  display: none;
+}
+.answer-Strings {
+  display: none;
+}
+.answer-Booleans {
+  display: none;
+}
+.answer-Undefined {
+  display: none;
+}
+.answer-NaN {
+  display: none;
+}
+.answer-Null {
+  display: none;
+}
+.answer-Alert {
+  display: none;
+}
+.answer-Comments {
+  display: none;
+}
+.answer-jQuery {
+  display: none;
+}
+.answer-Attributes {
   display: none;
 }
 .answer- {
@@ -10,25 +61,6 @@
 .answer- {
   display: none;
 }
-.answer- {
-  display: none;
-}
-.answer- {
-  display: none;
-}
-.answer- {
-  display: none;
-}
-.answer- {
-  display: none;
-}
-.answer- {
-  display: none;
-}
-.answer- {
-  display: none;
-}
-
 .box1 {
   border: 2px solid rgb(0, 0, 0);
   border-radius: 8px;
